@@ -10,3 +10,4 @@ SELECT
 purchase_cost
 ROUND(SUM(qty)/COUNT(date_date),0) AS day_q
 FROM ddq
+gggg
